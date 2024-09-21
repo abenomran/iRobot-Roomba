@@ -20,7 +20,7 @@ This project involves programming the **iRobot Create3 Roomba** to achieve multi
 
 **Infrared Sensors:** Utilized the Roomba's front-mounted IR sensors to implement an object collision detection system. This system allows the Roomba to sense obstacles in real-time, enabling it to navigate around objects and avoid collisions, ensuring smooth operation and protecting both the device and its surroundings.
 
-<p align="center>
+<p align="center">
   <img src="images/irobot_pingpong.png" alt="iRobot Ping Pong Functionality" width="400"/>
 </p>
 
