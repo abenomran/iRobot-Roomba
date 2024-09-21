@@ -7,7 +7,9 @@
 
 ## Overview
 
-This project involves programming the **iRobot Create3 Roomba** to achieve multiple advanced functionalities. As the first-ever student at Georgia Tech to complete this project, I spearheaded a team in developing the iRobot Create3 program functionality and worked closely with Dr. Rodrigo Borela (all lab creation credit due to him) to tailor his instruction for the first-time launch of the lab. By leveraging Python, the iRobot SDK, and the Roomba's onboard sensors, we developed a series of features that significantly enhance the Roomba's operational capabilities. These enhancements include password protection, ping pong functionality, object detection, collision warning/avoidance, and a dynamic maze-solving algorithm.
+This project involves programming the **iRobot Create3 Roomba** to achieve multiple advanced functionalities. As the first-ever student at Georgia Tech to complete this project, I spearheaded a team in developing the iRobot Create3 program functionality and worked closely with Dr. Rodrigo Borela (all lab creation credit due to him) to tailor his instruction for the first-time launch of the lab. 
+
+By leveraging Python, the iRobot SDK, and the Roomba's onboard sensors, we developed a series of features that significantly enhance the Roomba's operational capabilities. These enhancements include password protection, ping pong functionality, object detection, collision warning/avoidance, and a dynamic maze-solving algorithm.
 
 ## Features
 
