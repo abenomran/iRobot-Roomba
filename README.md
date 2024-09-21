@@ -1,6 +1,6 @@
 # iRobot Create3 Roomba Programming
 
-![iRobot Hardware](images/irobot_physical1.png)
+<img src="images/irobot_physical1.png" alt="iRobot Hardware" width="400"/>
 
 ## Overview
 
