@@ -13,6 +13,8 @@ This project involves programming the **iRobot Create3 Roomba** to achieve multi
 
 **Password Protection:** Implemented a secure access mechanism to control and restrict the use of the Roomba, ensuring that only authorized users can operate the device.
 
+<img src="images/irobot_sensation.png" alt="iRobot Hardware 2" width="400"/>
+**Infrared Sensors:** Utilized the Roomba's front-mounted IR sensors to implement an object collision detection system. This system allows the Roomba to sense obstacles in real-time, enabling it to navigate around objects and avoid collisions, ensuring smooth operation and protecting both the device and its surroundings.
 
 <img src="images/irobot_pingpong.png" alt="iRobot Hardware 1" width="400"/>
 **Ping Pong Functionality:** Developed a unique feature where the Roomba can engage in a simple ping pong interaction, showcasing the versatility of its motion and sensor capabilities.
