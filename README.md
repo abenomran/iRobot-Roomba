@@ -14,12 +14,14 @@ This project involves programming the **iRobot Create3 Roomba** to achieve multi
 **Password Protection:** Implemented a secure access mechanism to control and restrict the use of the Roomba, ensuring that only authorized users can operate the device.
 
 <p align="center">
-<img src="images/irobot_sensation.png" alt="iRobot Sensors" width="400"/>
-<img src="images/irobot_barrier_detection.png" alt="iRobot Barrier Detection" width="400"/>
+  <img src="images/irobot_sensation.png" alt="iRobot Sensors" width="400"/>
+  <img src="images/irobot_barrier_detection.png" alt="iRobot Barrier Detection" width="400"/>
 </p>
 **Infrared Sensors:** Utilized the Roomba's front-mounted IR sensors to implement an object collision detection system. This system allows the Roomba to sense obstacles in real-time, enabling it to navigate around objects and avoid collisions, ensuring smooth operation and protecting both the device and its surroundings.
 
-<img src="images/irobot_pingpong.png" alt="iRobot Ping Pong Functionality" width="400"/>
+<p align="center>
+  <img src="images/irobot_pingpong.png" alt="iRobot Ping Pong Functionality" width="400"/>
+</p>
 **Ping Pong Functionality:** Developed a unique feature where the Roomba can engage in a simple ping pong interaction, showcasing the versatility of its motion and sensor capabilities.
 
 <p align="center">
@@ -29,7 +31,7 @@ This project involves programming the **iRobot Create3 Roomba** to achieve multi
 
 **Object Detection and Collision Avoidance:** Utilized the Roomba's infrared (IR) sensors to detect obstacles in its path. The system not only warns the user of potential collisions but also employs an algorithm to autonomously navigate around obstacles, preventing accidents and ensuring smooth operation.
 
-<div>
+<p align="center>
   <img src="images/irobot_maze1.png" alt="iRobot Maze Solving Image 1" width="230"/>
   <img src="images/irobot_maze2.png" alt="iRobot Maze Solving Image 2" width="230"/>
   <img src="images/irobot_maze3.png" alt="iRobot Maze Solving Image 3" width="230"/>
