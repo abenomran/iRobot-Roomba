@@ -34,10 +34,12 @@ This project involves programming the **iRobot Create3 Roomba** to achieve multi
 **Object Detection and Collision Avoidance:** Utilized the Roomba's infrared (IR) sensors to detect obstacles in its path. The system not only warns the user of potential collisions but also employs an algorithm to autonomously navigate around obstacles, preventing accidents and ensuring smooth operation.
 
 <p align="center">
-  <img src="images/irobot_maze1.png" alt="iRobot Maze Solving Image 1" width="240"/>
-  <img src="images/irobot_maze2.png" alt="iRobot Maze Solving Image 2" width="240"/>
-  <img src="images/irobot_maze3.png" alt="iRobot Maze Solving Image 3" width="240"/>
-  <img src="images/irobot_maze4.png" alt="iRobot Maze Solving Image 4" width="240"/>
+  <img src="images/irobot_maze3.png" alt="iRobot Maze Solving Image 3" width="400"/>
+  <img src="images/irobot_maze4.png" alt="iRobot Maze Solving Image 4" width="400"/>
+</div>
+<p align="center">
+  <img src="images/irobot_maze3.png" alt="iRobot Maze Solving Image 3" width="400"/>
+  <img src="images/irobot_maze4.png" alt="iRobot Maze Solving Image 4" width="400"/>
 </div>
 
 **Dynamic Maze Solving Algorithm with Cost Analysis:** Designed and implemented a sophisticated algorithm that leverages the Roomba's Cartesian coordinate navigation system, incorporating a cost analysis function. This allows the Roomba to navigate and solve complex mazes dynamically by assigning a cost to each cell in the maze. The algorithm evaluates these costs, taking into account factors such as distance and obstacles, to calculate the optimal path in real-time. By analyzing and minimizing the total cost of different routes, the Roomba efficiently adapts to various maze configurations and finds the most efficient path from start to finish.
