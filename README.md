@@ -30,7 +30,8 @@ This project involves programming the **iRobot Create3 Roomba** to achieve multi
 <p align="center">
   <img src="images/irobot_maze1.png" alt="iRobot Maze Solving Image 1" width="300"/>
   <img src="images/irobot_maze2.png" alt="iRobot Maze Solving Image 2" width="300"/>
-  <img src="images/irobot_maze3.png" alt="Maze Solving Image 3" width="300"/>
+  <img src="images/irobot_maze3.png" alt="iRobot Maze Solving Image 3" width="300"/>
+  <img src="images/irobot_maze3.png" alt="iRobot Maze Solving Image 4" width="300"/>
 </p>
 
 **Dynamic Maze Solving Algorithm:** Designed and implemented a sophisticated algorithm that leverages the Roomba's Cartesian coordinate navigation system. This allows the Roomba to navigate and solve complex mazes dynamically. The Roomba adapts to different maze configurations, efficiently finding its way from start to finish by mapping out the maze and calculating the optimal path in real-time.
