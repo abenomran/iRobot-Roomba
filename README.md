@@ -13,7 +13,7 @@ By leveraging Python, the iRobot SDK, and the Roomba's onboard sensors, we devel
 
 ## Features
 
-<h3>Password Protection:</h3>
+<h5>Password Protection:</h5>
 <p>Implemented a secure access mechanism to control and restrict the use of the Roomba, ensuring that only authorized users can operate the device.</p>
 
 <p align="center">
