@@ -1,6 +1,9 @@
 # iRobot Create3 Roomba Programming
 
-<img src="images/irobot_physical1.png" alt="iRobot Hardware" width="400"/>
+<p align="center">
+  <img src="images/irobot_physical1.png" alt="iRobot Hardware 1" width="400"/>
+  <img src="images/irobot_physical2.png" alt="iRobot Hardware 2" width="400"/>
+</p>
 
 ## Overview
 
