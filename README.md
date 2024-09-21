@@ -1,5 +1,7 @@
 # iRobot Create3 Roomba Programming
 
+![iRobot Hardware](images/irobot_physical1.png)
+
 ## Overview
 
 This project involves programming the **iRobot Create3 Roomba** to achieve multiple advanced functionalities. By leveraging Python, the iRobot SDK, and the Roomba's onboard sensors, we developed a series of features that significantly enhance the Roomba's operational capabilities. These enhancements include password protection, ping pong functionality, object detection, collision warning/avoidance, and a dynamic maze-solving algorithm.
